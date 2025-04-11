@@ -6,4 +6,4 @@ IDE Utilizada: Eclipse IDE for Enterprise Java and Web Developers - 2025-03
 Conta com 1 vídeo de funcionamento da API REST, SPRING BOOT, BANCO DE DADOS e o POSTMAN
 
 
---> NECESSÁRIO BAIXAR OS VÍDEOS PARA ASSISTIR <--
+--> NECESSÁRIO BAIXAR O VÍDEO PARA ASSISTIR <--
