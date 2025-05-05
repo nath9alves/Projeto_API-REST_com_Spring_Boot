@@ -60,7 +60,7 @@ public class ProdutoController {
 
     @GetMapping("/{id}")
     public Produto buscarPorId(@PathVariable Long id) {
-        logger.info("📣 Buscando produto com ID {}", id);
+        logger.info("Buscando produto com ID {}", id);
         return service.findById(id);
     }
 
